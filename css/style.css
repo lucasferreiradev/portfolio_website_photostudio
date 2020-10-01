@@ -935,7 +935,7 @@ flex: 0 0 100%;
 /*if screen width is less than or equal to 550px then*/
 @media(max-width: 550px){
   .home h1{
-      font-size: 30px;
+      font-size: 20px;
   }
 }
 
